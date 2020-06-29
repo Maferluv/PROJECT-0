@@ -1,0 +1,197 @@
+body
+{
+	background-color: black;
+}
+#menu
+{
+	border-style: solid;
+	background-color:black;
+	border-color: rgb(191,147,13);
+	height: 75px;	
+}
+#menu a
+{
+	color: rgb(191,147,13);
+	font-family: segoe script;
+	text-decoration: none;
+	text-align: left;
+}
+#menu ul
+{
+	list-style-type: none;
+	text-align: center;
+	text-decoration: none;
+}
+#menu li
+{
+	display: inline;
+	text-align: center;
+	margin: 10px 10px 10px 10px;
+	font-family: segoe script;
+	list-style-type: none;
+	text-decoration: none;
+}
+
+#menu li a:hover
+{
+	background-color: rgb(191,147,13); 
+	text-decoration: underline;
+	color: white;
+}
+
+.logo
+{
+	height: 0px;
+}
+
+#mega
+{
+	border-style: solid;
+	background-color: black;
+	border-color: rgb(191,147,13);
+	height: 590px;
+	border-top-color: black;
+	position: relative;
+}
+
+#izq
+{
+	width: 1022px;
+	height: 576px;
+	float: left;
+	position: absolute;
+}
+#der
+{
+	border-color: rgb(191,147,13);
+	border-style: solid;
+	border-right: none;
+	border-spacing: none;
+	border-top: none;
+	border-bottom: none;
+	width: 290px;
+	height: 580px;
+	float: right;
+	position: relative;
+}
+h1
+{
+	text-align: center;
+}
+form
+{
+	font-family: segoe script;
+	color: rgb(191,147,13);
+	padding-left: 10px;
+}
+input
+{
+	padding-top: 10px;
+}
+#enviar
+{
+	margin-top: 10px;
+	margin-right: 25px;
+}
+
+#titulo
+{
+	font-family: segoe script;
+	color: white;
+	text-align: center;
+}
+#izq
+{
+	width: 1024px;
+	height: 580px;
+	float: left;
+	position: absolute;	
+}
+.fondo
+{
+	width: 1030px;
+	height: 585px;
+	position: absolute;
+}
+.contenido
+{
+	width: 1024px;
+	height: 580px;
+	float: left;
+	position: absolute;
+}
+.t2
+{
+	color: white;
+	font-family: segoe script;
+	margin-left: 40px;
+	margin-top: 200px;
+}
+.foto1
+{
+	width: 200px;
+	height: 150px;
+	border: 3px solid #bf930d;
+	border-radius: 150px;
+	margin-left: 230px;
+	margin-top: -100px;
+}
+
+.tecnicas
+{
+	color: white;
+	font-family: segoe script;
+	margin-top: -340px;
+	margin-left: 450px;
+	text-decoration: underline;
+}
+.japonesa
+{
+    color: white;
+	font-family: segoe script;
+	margin-left: 680px;
+	margin-top: 70px; 
+}
+.f2
+{
+	width: 200px;
+	height: 150px;
+	border: 3px solid #bf930d;
+	border-radius: 100px;
+	margin-left: 450px;
+	margin-top: -110px;
+}
+.hibridas
+{
+	color: white;
+	font-family: segoe script;
+	margin-left: 530px;
+	margin-top: 40px;
+}
+.f3
+{
+	width: 200px;
+	height: 150px;
+	border: 3px solid #bf930d;
+	border-radius: 100px;
+	margin-left: 750px;
+	margin-top: -120px;
+}
+.volumen
+{
+	color: white;
+	font-family: segoe script;
+	margin-left: 680px;
+	margin-top: 40px;
+}
+.f4
+{
+	width: 200px;
+	height: 150px;
+	border: 3px solid #bf930d;
+	border-radius: 100px;
+	margin-left: 450px;
+	margin-top: -115px;
+}
+
+

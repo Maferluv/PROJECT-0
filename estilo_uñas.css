@@ -1,0 +1,234 @@
+body
+{
+	background-color: black;
+}
+
+#menu
+{
+	border-style: solid;
+	background-color:black;
+
+	border-color: rgb(191,147,13);
+	height: 75px;	
+}
+#menu a
+{
+	color: rgb(191,147,13);
+	font-family: segoe script;
+	text-decoration: none;
+	text-align: left;
+}
+#menu ul
+{
+	list-style-type: none;
+	text-align: center;
+	text-decoration: none;
+}
+#menu li
+{
+	display: inline;
+	text-align: center;
+	margin: 10px 10px 10px 10px;
+	font-family: segoe script;
+	list-style-type: none;
+	text-decoration: none;
+}
+#menu li a:hover
+{
+	background-color: rgb(234,190,63); 
+	text-decoration: underline;
+	color: white;
+}
+.logo
+{
+	height: 0px;
+}
+#mega
+{
+	border-style: solid;
+	background-color: black;
+	border-color: rgb(191,147,13);
+	height: 590px;
+	border-top-color: black;
+	position: relative;
+}
+#der
+{
+	border-color: rgb(191,147,13);
+	border-style: solid;
+	border-right: none;
+	border-spacing: none;
+	border-top: none;
+	border-bottom: none;
+	width: 290px;
+	height: 580px;
+	float: right;
+	position: relative;
+}
+h1
+{
+	text-align: center;
+}
+form
+{
+	font-family: segoe script;
+	color: rgb(191,147,13);
+	padding-left: 10px;
+}
+input
+{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.escribe
+{
+	padding-top: 5px;
+}
+#enviar
+{
+	margin-top: 10px;
+	margin-right: 25px;
+}
+
+
+#izq
+{
+	width: 1024px;
+	height: 580px;
+	float: left;
+	position: absolute;	
+}
+.fondodiv
+{
+	width: 1030px;
+	height: 585px;
+	position: absolute;
+}
+#depilacion
+{
+	border-style: solid;
+	border-color: rgb(191,147,13);
+	border-top: none;
+	border-left: none;
+	border-bottom: none;
+	float: left;
+	position: absolute;
+	width: 520px;
+	height: 575px;
+}
+
+
+#uñas
+{
+	float: right;
+	width: 505px;
+	height: 575px;
+	position: relative;
+}
+.redonda
+{
+	width: 150px;
+	height: 150px;
+	border-radius: 150px;
+	margin-left: 50px;
+	border: 3px solid #bf930d;
+	position: relative;
+	top:-20px; 
+}
+.redonda:hover
+{
+	width: 300px;
+	height: 300px;
+	border-radius: 300px;
+	margin-left: 30px;
+	border: 3px solid #bf930d;
+}
+#mnormal
+{
+margin-left: 50px;
+}
+.redonda1
+{
+	width: 150px;
+	height: 150px;
+	border-radius: 150px;
+	margin-left: 50px;
+	border: 3px solid #bf930d;
+	position: relative;	
+}
+.redonda1:hover
+{
+	width: 300px;
+	height: 300px;
+	border-radius: 300px;
+	margin-left: 20px;
+	border: 3px solid #bf930d;
+}
+#pnormal
+{
+	margin-left: 50px;
+}
+.redonda2
+{
+	width: 150px;
+	height: 150px;
+	border-radius: 150px;
+	border: 3px solid #bf930d;
+	float: right;
+	position: relative;
+	top: -485px;
+	left: -50px;
+}
+.redonda2:hover
+{
+	width: 300px;
+	height: 300px;
+	border-radius: 300px;
+	margin-left: 20px;
+	border: 3px solid #bf930d;
+}
+#mgelish
+{
+	float: right;
+	position: relative;
+	top: -305px;
+	left: 80px;
+}
+.redonda3
+{
+	width: 150px;
+	height: 150px;
+	border-radius: 150px;
+	border: 3px solid #bf930d;
+	float: right;
+	position: relative;
+	top: -234px;
+	left: 250px;
+}
+.redonda3:hover
+{
+    width: 300px;
+	height: 300px;
+	border-radius: 300px;
+	margin-left: 20px;
+	border: 4px solid #bf930d;
+}
+#pgelish
+{
+	float: right;
+	position: relative;
+	top: -225px;
+	left: -80px;
+}
+h1
+{
+	font-family:segoe script;
+	color: rgb(191,147,13);
+}
+h2
+{
+    font-family:segoe script;
+	color: rgb(191,147,13);	
+	font-size: 15px;
+	margin-left: 15px;
+}

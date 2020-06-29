@@ -1,0 +1,178 @@
+body
+{
+	background-color: black;
+}
+#menu
+{
+	border-style: solid;
+	background-color:black;
+	border-color: rgb(191,147,13);
+	height: 75px;	
+}
+#menu a
+{
+	color: rgb(191,147,13);
+	font-family: segoe script;
+	text-decoration: none;
+	text-align: left;
+}
+#menu ul
+{
+	list-style-type: none;
+	text-align: center;
+	text-decoration: none;
+}
+#menu li
+{
+	display: inline;
+	text-align: center;
+	margin: 10px 10px 10px 10px;
+	font-family: segoe script;
+	list-style-type: none;
+	text-decoration: none;
+}
+
+#menu li a:hover
+{
+	background-color: rgb(191,147,13); 
+	text-decoration: underline;
+	color: white;
+}
+
+.logo
+{
+	height: 0px;
+}
+
+#mega
+{
+	border-style: solid;
+	background-color: black;
+	border-color: rgb(191,147,13);
+	height: 590px;
+	border-top-color: black;
+	position: relative;
+}
+
+#izq
+{
+	width: 1022px;
+	height: 576px;
+	float: left;
+	position: absolute;
+}
+#der
+{
+	border-color: rgb(191,147,13);
+	border-style: solid;
+	border-right: none;
+	border-spacing: none;
+	border-top: none;
+	border-bottom: none;
+	width: 290px;
+	height: 580px;
+	float: right;
+	position: relative;
+}
+h1
+{
+	text-align: center;
+}
+form
+{
+	font-family: segoe script;
+	color: rgb(191,147,13);
+	padding-left: 10px;
+}
+input
+{
+	padding-top: 10px;
+}
+#enviar
+{
+	margin-top: 10px;
+	margin-right: 25px;
+}
+
+#izq
+{
+	width: 1024px;
+	height: 580px;
+	float: left;
+	position: absolute;
+}
+#fondo
+{
+	width: 1024px;
+	height: 580px;
+	position: absolute;
+}
+#depilacion
+{
+	font-family: segoe script;
+	color: white;
+	text-align: center;
+	position: relative;
+}
+.cera
+{
+	width: 510px;
+	height: 530px;
+	position: absolute;
+	float: left;
+}
+#fcera
+{
+	width: 400px;
+	height: 350px;
+	margin-left: 35px;
+	border-color: rgb(191,147,13);
+	border-style: solid;
+}
+.hilo
+{
+	width: 510px;
+	height: 530px;
+	position: relative;
+	float: right;
+}
+#fhilo
+{
+	width: 400px;
+	height: 350px;
+	margin-left: 35px;
+	border-color: rgb(191,147,13);
+	border-style: solid;
+}
+#titc
+{
+	font-family: segoe script;
+	color: white;
+	position: relative;
+}
+#tith
+{
+	font-family: segoe script;
+	color: white;
+	text-align: center;
+}
+#ulh
+{
+	color: white; 
+	position: absolute;
+	 margin-top: -300px;
+	  padding-left:100px;
+	  padding-top: 15px;
+	   font-weight: bolder;
+	 font-size: 20px;
+}
+.cera ul li
+{
+	padding: 5px;
+	font-family: segoe script;
+}
+.hilo ul li
+{
+	padding: 5px;
+	font-family: segoe script;
+}

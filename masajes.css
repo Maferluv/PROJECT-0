@@ -1,0 +1,193 @@
+body
+{
+	background-color: black;
+}
+#menu
+{
+	border-style: solid;
+	background-color:black;
+	border-color: rgb(191,147,13);
+	height: 75px;	
+}
+#menu a
+{
+	color: rgb(191,147,13);
+	font-family: segoe script;
+	text-decoration: none;
+	text-align: left;
+}
+#menu ul
+{
+	list-style-type: none;
+	text-align: center;
+	text-decoration: none;
+}
+#menu li
+{
+	display: inline;
+	text-align: center;
+	margin: 10px 10px 10px 10px;
+	font-family: segoe script;
+	list-style-type: none;
+	text-decoration: none;
+}
+
+#menu li a:hover
+{
+	background-color: rgb(191,147,13); 
+	text-decoration: underline;
+	color: white;
+}
+
+.logo
+{
+	height: 0px;
+}
+
+#mega
+{
+	border-style: solid;
+	background-color: black;
+	border-color: rgb(191,147,13);
+	height: 590px;
+	border-top-color: black;
+	position: relative;
+}
+
+#izq
+{
+	width: 1022px;
+	height: 576px;
+	float: left;
+	position: absolute;
+}
+#der
+{
+	border-color: rgb(191,147,13);
+	border-style: solid;
+	border-right: none;
+	border-spacing: none;
+	border-top: none;
+	border-bottom: none;
+	width: 290px;
+	height: 580px;
+	float: right;
+	position: relative;
+}
+h1
+{
+	text-align: center;
+}
+form
+{
+	font-family: segoe script;
+	color: rgb(191,147,13);
+	padding-left: 10px;
+}
+input
+{
+	padding-top: 10px;
+}
+#enviar
+{
+	margin-top: 10px;
+	margin-right: 25px;
+}
+
+
+#izq
+{
+	width: 1024px;
+	height: 580px;
+	float: left;
+	position: absolute;
+}
+#titulo
+{
+	font-family: segoe script;
+	color: white;
+	text-align: center;
+}
+#fondo
+{
+	width: 1030px;
+	height: 500px;
+	position: absolute;
+}
+.contenido
+{
+	width: 1024px;
+	height: 580px;
+	float: left;
+	position: absolute;
+}
+
+.contder
+{
+	width: 505px;
+	height: 480px;
+	position: relative;
+	float: right;
+}
+.contizq
+{
+	width: 510px;
+	height: 480px;
+	position: absolute;
+	float: left;
+}
+.titulo2
+{
+	font-family: segoe script;
+	color: white;
+	text-align: center;
+}
+
+.ffac
+{
+    width: 503px;
+	height: 390px;
+	border-color: rgb(191,147,13);
+	border-style: solid;
+	margin-right: 5px;
+
+}
+.fcorp
+{
+	width: 510px;
+	height: 390px;
+	border-color: rgb(191,147,13);
+	border-style: solid;
+}
+.li1
+{
+	font-family: segoe script;
+	color: black;
+	margin-top: -390px;
+	font-size: 20px;
+	margin-left: 20px;
+	font-weight: bolder;
+}
+.li2
+{
+	font-family: segoe script;
+	color: black;
+	position: absolute;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-top: 30px;
+	font-weight: bolder;
+}
+#ul1
+{
+	margin-top: -380px;
+	margin-left: 20px; 
+}
+.li3
+{
+	padding-top: 30px;
+	color: black;
+	font-family: segoe script;
+	font-weight: bolder;
+	font-size: 23px;
+}
